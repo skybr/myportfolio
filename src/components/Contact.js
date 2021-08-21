@@ -121,14 +121,14 @@ class Contact extends Component {
                                     <i className="flaticon-chat"></i>
                                     <div className="media-body">
                                         <h6>Contact Me</h6>
-                                        <a href=".#">john@gmail.com</a>
+                                        <a href=".#">ianaguilar@outlook.ph</a>
                                     </div>
                                 </div>
                                 <div className="media get_item">
                                     <i className="flaticon-pin"></i>
                                     <div className="media-body">
                                         <h6>Get Me Here</h6>
-                                        <p>Jagodina, RS</p>
+                                        <p>Pagbilao, PH</p>
                                     </div>
                                 </div>
                             </div>

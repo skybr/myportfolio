@@ -13,11 +13,11 @@ class Footer extends Component {
                     <div className="container">
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-sm-7">
-                                <p className="mb-0 f_400">© {today.getFullYear()} aleksa-marovic.herokuapp.com All rights
+                                <p className="mb-0 f_400">© {today.getFullYear()} iaguilar.herokuapp.com All rights
                                     reserved. </p>
                             </div>
                             <div className="col-lg-6 col-sm-5 text-right">
-                                <p>Made with <i className="icon_heart"></i> by Aleksa Marovic</p>
+                                <p>Made with <i className="icon_heart"></i> by Ian Aguilar</p>
                             </div>
                         </div>
                     </div>

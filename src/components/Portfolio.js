@@ -50,8 +50,8 @@ class Portfolio extends Component {
                             <div className="portfolio_content">
                                 <a href="Portfolio"><img src={require('../image/new1.jpg')} alt=""/></a>
                                 <div className="text">
-                                    <a href="Portfolio"><h4>Poluchoromatic Logo</h4></a>
-                                    <a href="Portfolio#">Branding Design</a>
+                                    <a href="Portfolio"><h4>Portfolio Site Development</h4></a>
+                                    <a href="Portfolio#">Full-stack Development</a>
                                 </div>
                             </div>
                         </div>
