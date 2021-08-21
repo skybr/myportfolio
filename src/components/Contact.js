@@ -114,21 +114,21 @@ class Contact extends Component {
                                     <i className="flaticon-phone"></i>
                                     <div className="media-body">
                                         <h6>Call Me Now</h6>
-                                        <a href=".#">(415) 492-7489</a>
+                                        <a href=".#">612541227</a>
                                     </div>
                                 </div>
                                 <div className="media get_item">
                                     <i className="flaticon-chat"></i>
                                     <div className="media-body">
                                         <h6>Contact Me</h6>
-                                        <a href=".#">ianaguilar9110@outlook.ph</a>
+                                        <a href=".#">john@gmail.com</a>
                                     </div>
                                 </div>
                                 <div className="media get_item">
                                     <i className="flaticon-pin"></i>
                                     <div className="media-body">
                                         <h6>Get Me Here</h6>
-                                        <p>Pagbilao, PH</p>
+                                        <p>Jagodina, RS</p>
                                     </div>
                                 </div>
                             </div>

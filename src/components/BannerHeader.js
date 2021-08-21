@@ -39,7 +39,7 @@ function BannerHeader() {
                     <div className="container">
                         <div className="banner_content text-left">
                             <Reveal effect="fadeInUp" duration={1500}>
-                                <h2 className="wow fadeInLeft animated">Hi, I'm Ian Aguilar</h2>
+                                <h2 className="wow fadeInLeft animated">Hi, I'm Aleksa Marovic</h2>
                             </Reveal>
                             <Reveal effect="fadeInUp" duration={2200}>
                                 <h4 className="wow fadeInUp anoimated cursor">{name} &zwnj;</h4>

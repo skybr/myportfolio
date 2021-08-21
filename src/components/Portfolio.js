@@ -50,8 +50,8 @@ class Portfolio extends Component {
                             <div className="portfolio_content">
                                 <a href="Portfolio"><img src={require('../image/new1.jpg')} alt=""/></a>
                                 <div className="text">
-                                    <a href="Portfolio"><h4>John Portfolio Site</h4></a>
-                                    <a href="Portfolio#">Fullstack Web Development</a>
+                                    <a href="Portfolio"><h4>Poluchoromatic Logo</h4></a>
+                                    <a href="Portfolio#">Branding Design</a>
                                 </div>
                             </div>
                         </div>
@@ -59,8 +59,8 @@ class Portfolio extends Component {
                             <div className="portfolio_content">
                                 <a href="Portfolio"><img src={require('../image/portfolio1.jpg')} alt=""/></a>
                                 <div className="text">
-                                    <a href="Portfolio"><h4>Web APP Development</h4></a>
-                                    <a href="Portfolio#">React Animation Development</a>
+                                    <a href="Portfolio"><h4>Poluchoromatic Logo</h4></a>
+                                    <a href="Portfolio#">Logo Design</a>
                                 </div>
                             </div>
                         </div>
@@ -77,8 +77,8 @@ class Portfolio extends Component {
                             <div className="portfolio_content">
                                 <a href="Portfolio"><img src={require('../image/portfolio1.jpg')} alt=""/></a>
                                 <div className="text">
-                                <a href="Portfolio"><h4>Animated Web APP</h4></a>
-                                    <a href="Portfolio#">GSAP Animation Development</a>
+                                    <a href="Portfolio"><h4>John Portfolio Logo</h4></a>
+                                    <a href="Portfolio#">UI/UX Design</a>
                                 </div>
                             </div>
                         </div>

@@ -23,8 +23,8 @@ class bannerAbout extends Component {
                                     <div className="skill_content_two">
                                         <Title stitle="About me"
                                                btitle="Some Interesting Facts About Me."/>
-                                        <p>I started my career with Html, Css, Sass, PHP, and Javascript for simple tasks as a web developer, and during some period of working for several projects, 
-                                            I felt strong interesting in Javascript frontend frameworks such as React, Redux, Greensock, and TweenMax animation affects. ;)</p>
+                                        <p>I started my career with Html, Css, PHP, and Javascript for simple tasks as a web developer, and during some period of working for several projects, 
+                                            I felt strong interesting in Javascript frontend frameworks such as React, Vue, and TweenMax animation affects. )</p>
                                     </div>
                                 </Reveal>
                             </div>

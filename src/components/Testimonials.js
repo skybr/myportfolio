@@ -62,10 +62,9 @@ class Testimonials extends Component {
                                             <div className="author_img">
                                                 <img src={require('../image/testimonial_man.png')} alt=""/>
                                             </div>
-                                            <p>"Good work and fast delivered. He understood the issue of Drupal website in short time and fixed it in time. And he was well cooperative with additional ask.
-                                                Thank you."</p>
-                                            <h5>Daniel Toro</h5>
-                                            <h6>Nomisma, INC</h6>
+                                            <p>"Very fast and good work. He was responsive with good communication, and quick grasping what was core of task. I recommend Aleksa to similar jobs."</p>
+                                            <h5>Rafael Diaz</h5>
+                                            <h6>ACQhq, LLC</h6>
                                         </div>
                                     </Slider>
                                 </div>

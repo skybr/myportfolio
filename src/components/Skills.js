@@ -48,7 +48,7 @@ class Skills extends Component {
                     <Title tCenter="text-center" stitle="My Featured Skills"
                            btitle="Over 20+ completed work & Still counting."/>
                     <p>If you are looking for someone who can work hard for your project, then please contact me. 
-                        Of course, if my skills are well matched with the requirements of your project</p>
+                        Of course, if my skills are well matched with the requirements of your project 😉</p>
                     <div className="seo_fact_info">
                         <div className="seo_fact_item wow fadeIn" data-wow-delay="0.1s">
                             <div className="text">
